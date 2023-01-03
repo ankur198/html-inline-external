@@ -1,5 +1,5 @@
 {
-  "name": "@ankur198/html-inline-external",
+  "name": "html-inline-external-without-cdn",
   "bin": {
     "html-inline-external": "./lib/cli.js"
   },
