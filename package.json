@@ -1,5 +1,5 @@
 {
-  "name": "html-inline-external",
+  "name": "@ankur198/html-inline-external",
   "bin": {
     "html-inline-external": "./lib/cli.js"
   },
@@ -9,7 +9,6 @@
   "version": "1.0.10",
   "description": "Helps include/inline external Script/CSS/Images and compiles into a Single HTML page.",
   "main": "lib/html-inline-external.js",
-  "repository": "https://github.com/okrohan/html-inline-external.git",
   "author": "okrohan",
   "license": "MIT",
   "private": false,
